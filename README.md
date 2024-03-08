@@ -3,9 +3,7 @@
 </p>
 
 
-Reference :
-
-<p>https://flet-controls-gallery.fly.dev</p>
+Reference : `https://flet-controls-gallery.fly.dev`
 
 ---
 

@@ -12,3 +12,7 @@ Reference : `https://flet-controls-gallery.fly.dev`
 </div>
 
 ---
+
+<div align="left">
+   &#x1FAA2; <a href="./02-flet-app-textfield-bottom_appbar-container">Link to view entire 02-flet-app-textfield-bottom_appbar-container</a>
+</div>

@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/powercommerce/Documents/test/from-github-all/python-flet-app/01-flet-app-local/venv"
+VIRTUAL_ENV="/Users/powercommerce/Documents/test/from-github-all/python-flet-app-textfield-bottom_appbar-run-local-and-docker-container/01-flet-app-textfield-bottom_appbar-local/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

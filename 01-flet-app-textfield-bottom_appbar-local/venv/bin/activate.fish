@@ -30,7 +30,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/powercommerce/Documents/test/from-github-all/python-flet-app/01-flet-app-local/venv"
+set -gx VIRTUAL_ENV "/Users/powercommerce/Documents/test/from-github-all/python-flet-app-textfield-bottom_appbar-run-local-and-docker-container/01-flet-app-textfield-bottom_appbar-local/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

@@ -8,7 +8,7 @@ alias deactivate 'test $?_OLD_VIRTUAL_PATH != 0 && setenv PATH "$_OLD_VIRTUAL_PA
 # Unset irrelevant variables.
 deactivate nondestructive
 
-setenv VIRTUAL_ENV "/Users/powercommerce/Documents/test/from-github-all/python-flet-app/01-flet-app-local/venv"
+setenv VIRTUAL_ENV "/Users/powercommerce/Documents/test/from-github-all/python-flet-app-textfield-bottom_appbar-run-local-and-docker-container/01-flet-app-textfield-bottom_appbar-local/venv"
 
 set _OLD_VIRTUAL_PATH="$PATH"
 setenv PATH "$VIRTUAL_ENV/bin:$PATH"
